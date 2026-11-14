@@ -1,0 +1,12 @@
+# build output
+build/
+
+# downloaded by tools/fetch_mediapipe.sh
+web/vendor/
+web/models/
+
+# local / generated
+.DS_Store
+.claude/
+art/debug/
+*.log
